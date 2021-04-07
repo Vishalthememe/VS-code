@@ -1,2 +1,2 @@
-# VS-code
-Fruits
+# collisionAlgorithm
+Algorithm to detect collision between two objects
